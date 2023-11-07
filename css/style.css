@@ -1,10 +1,11 @@
+@charset "UTF-8";
+
 @import url(https://fonts.googleapis.com/css?family=Mulish:regular,600,700,800&display=swap);
 
 @import url(https://fonts.googleapis.com/css?family=Marcellus:regular&display=swap);
 
 @import url(https://fonts.googleapis.com/css?family=Lemon:regular&display=swap);
 
-@charset "UTF-8";
 
 * {
   padding: 0px;
@@ -617,7 +618,7 @@ p:not(:last-child) {
   gap: 1.9375rem;
 }
 
-.block-soon__image img {
+.block-soon__image video {
   width: 100%;
 }
 
