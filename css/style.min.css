@@ -607,7 +607,7 @@ p:not(:last-child) {
    gap: 1.9375rem
 }
 
-.block-soon__image video {
+.block-soon__image img {
    width: 100%
 }
 
